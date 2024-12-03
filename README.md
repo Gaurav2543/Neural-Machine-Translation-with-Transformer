@@ -103,10 +103,6 @@ The project uses a subset of the IWSLT 2016 English-French translation dataset:
 - Development: 887 sentence pairs
 - Test: 1,305 sentence pairs
 
-## License
-
-This project is part of an academic assignment and should be used according to the course guidelines.
-
 ## Acknowledgments
 
 - Based on the "Attention is All You Need" paper
