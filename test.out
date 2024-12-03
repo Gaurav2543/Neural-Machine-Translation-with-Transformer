@@ -1,0 +1,8 @@
+
+
+
+
+
+
+Calculating BLEU Score:   0%|          | 0/14 [00:00<?, ?it/s]Calculating BLEU Score:   7%|▋         | 1/14 [02:08<27:47, 128.30s/it]Calculating BLEU Score:  14%|█▍        | 2/14 [03:49<22:30, 112.52s/it]Calculating BLEU Score:  21%|██▏       | 3/14 [05:31<19:45, 107.75s/it]Calculating BLEU Score:  29%|██▊       | 4/14 [07:13<17:34, 105.41s/it]Calculating BLEU Score:  36%|███▌      | 5/14 [08:55<15:35, 103.98s/it]Calculating BLEU Score:  43%|████▎     | 6/14 [10:38<13:49, 103.64s/it]Calculating BLEU Score:  50%|█████     | 7/14 [13:37<14:58, 128.41s/it]Calculating BLEU Score:  57%|█████▋    | 8/14 [27:43<35:40, 356.81s/it]Calculating BLEU Score:  64%|██████▍   | 9/14 [40:05<39:46, 477.30s/it]Calculating BLEU Score:  71%|███████▏  | 10/14 [41:47<24:05, 361.38s/it]Calculating BLEU Score:  79%|███████▊  | 11/14 [43:29<14:06, 282.16s/it]Calculating BLEU Score:  86%|████████▌ | 12/14 [45:12<07:34, 227.48s/it]Calculating BLEU Score:  93%|█████████▎| 13/14 [46:53<03:09, 189.19s/it]Calculating BLEU Score: 100%|██████████| 14/14 [46:58<00:00, 133.60s/it]Calculating BLEU Score: 100%|██████████| 14/14 [46:58<00:00, 201.33s/it]
+Corpus BLEU Score: 0.0653
